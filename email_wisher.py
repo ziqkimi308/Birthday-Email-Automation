@@ -17,8 +17,8 @@ import smtplib
 
 # CONSTANT
 CSV_BIRTHDAY_PATH = "./birthdays.csv"
-MY_EMAIL = "sweetsugarpastry@gmail.com"
-MY_PASSWORD = "rqaarmydmibkgzdl"
+MY_EMAIL = "my_email@gmail.com"
+MY_PASSWORD = "123456789"
 
 # datetime Class
 today = dt.datetime.now()
